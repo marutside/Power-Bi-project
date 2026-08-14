@@ -1,6 +1,5 @@
 # 📊 Data Jobs Dashboard w/ Power BI
 
-
 > 📊 [View Interactive Dashboard on Power BI Service](https://lukeb.co/powerbi-project1)
 
 ---
@@ -17,7 +16,7 @@ Using a real-world dataset of **2024 data science job postings**, including job 
 
 You can find the Power BI dashboard file here:
 
-[`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix)
+[**Download Data_Jobs_Dashboard.pbix**](Data_Jobs_Dashboard.pbix)
 
 ---
 
@@ -89,7 +88,8 @@ It includes:
 
 ### Dashboard Preview
 
-![Data Dashboard](/Images/Project1%20-page%201.png)
+![Data Jobs Dashboard Page 1](Project1_Dashboard_Page1.png)
+
 This page helps users quickly understand **which data jobs are most common, how salaries compare, and how job postings change over time**.
 
 ---
@@ -111,7 +111,7 @@ It includes:
 
 ### Dashboard Preview
 
-![Data Jobs Dashboard Page 2](Resources/images/Project1_Dashboard_Page2.png)
+![Data Jobs Dashboard Page 2](Project1_Dashboard_Page2.png)
 
 The **Drill Through** feature allows users to select a specific job title from the first page and explore detailed information about that role.
 
@@ -149,16 +149,17 @@ Users can move from the high-level dashboard to a detailed job-title-specific an
 
 ### Page 1 — Data Jobs Dashboard
 
-![Data Job Dashboard](/Images/Project1%20-page%201.png)
+![Data Jobs Dashboard Page 1](Project1_Dashboard_Page1.png)
 
 ### Page 2 — Job Title Drill Through
 
-![Drill through the Job Title](/Images/project%201%20-%20Page%202.png)
+![Data Jobs Dashboard Page 2](Project1_Dashboard_Page2.png)
+
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Power BI**
+- **Microsoft Power BI**
 - **Power Query**
 - **DAX**
 - **Data Cleaning**
